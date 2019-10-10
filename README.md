@@ -184,7 +184,7 @@ These consultants use the Serverless Framework and can help you build your serve
 - [Trek10](https://www.trek10.com/)
 - [Parallax](https://parall.ax/) – they also built the [David Guetta Campaign](https://serverlesscode.com/post/david-guetta-online-recording-with-lambda/)
 - [Geniusee](https://geniusee.com)
-- [SC5 Online](https://sc5.io)
+- [Nordcloud](https://nordcloud.com) - they created [several plugins](https://github.com/nordcloud?utf8=%E2%9C%93&q=serverless&type=&language=), sponsor [Serverless Days Helsinki](https://helsinki.serverlessdays.io/) and regularly host [Serverless Finland](https://www.meetup.com/Serverless-Finland/) Meetups.
 - [Carrot Creative](https://carrot.is)
 - [microapps](http://microapps.com)
 - [Apiwise](http://www.apiwise.nl)
@@ -206,6 +206,7 @@ These consultants use the Serverless Framework and can help you build your serve
 - [superluminar](https://superluminar.io) - runs serverlessdays Hamburg and Serverless Meetup Hamburg
 - [Onica](https://www.onica.com/aws-cloud-native-developers/) - AWS Premier Consulting Partner for Cloud Native Development and host of [eleven regional Meetup groups](https://www.onica.com/events/).
 - [null](https://null.tc/) - maintains [Bref](https://bref.sh/) to create serverless PHP applications
+- [Theodo](https://www.theodo.co.uk) - full stack teams passionate about Serverless that also run the Serverless Transformation Newsletter & Blog.
 
 ---
 
